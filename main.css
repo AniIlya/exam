@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+ ul{
+    list-style-type: none;
+    }
+.menu{
+    
+    width: 100%;
+     background-color: red;
+     border-bottom: 1px solid rgb(171, 165, 165);
+opacity: 0.75;
+}
+a{
+text-decoration: none;
+ padding: 20px;   
+ color: white;
+}
+a:hover{
+    background-color: aliceblue;
+    color: black;
+}
+a.home{
+    background-color: aliceblue;
+    color: black;
+}
+ul{
+    display: flex;
+    padding: 20px;
+    list-style:none ;
+}
+li{
+    font-size: larger;
+}
+.top{
+    width: 100%;
+    height: 70vh;
+    background-color: red;
+    opacity: 0.75;
+
+}
+.top h1{
+    text-align: center;
+    
+    color: white;
+}
+h1{
+    font-weight: 600px;
+    padding-top: 95px;
+    font-size:xx-large;
+    letter-spacing: 2px;
+    
+}
+p{
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+    
+}
+button{
+    padding: 12px 20px;
+    letter-spacing: 1px;
+    border: none;
+    margin-top: 25px;
+    background-color: black;
+    color: aliceblue;
+}
+.button{
+    text-align: center;
+}
+button:hover{
+    background-color: aliceblue;
+    color:black;
+}
+.body{
+    width: 100%;
+    display: flex;
+}
+.left{
+    padding: 30px;
+    width: 65%;
+}
+.right{
+    padding: 30px;
+    width: 35%;
+}
+i.red{
+    color: red;
+    opacity: 0.75;
+    font-size: 250px;
+    margin: 40px 30px 30px ;
+
+}
+p.lorem{
+    color: grey;
+    text-align: left;
+}
+.loremm h1{
+width: 100%;
+}
+h3{
+    padding-top: 20px;
+}
+.bodyy{
+    width: 100%;
+    display: flex;
+    background-color: rgb(237, 237, 237);
+}
+.leftt{
+    padding-left: 90px;
+    width: 35%;
+}
+.rightt{
+    padding:20px;
+    width: 65%;
+}
+.middle p{
+padding: 50px 50px;
+background-color: gray;
+color: aliceblue;
+}
+.bottom{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.bot{
+    color: grey;
+    padding: 5px;
+}
+a.css{
+    color: gray;
+    text-decoration: solid;
+
+}
+
+p.css{
+    color: gray;
+}
